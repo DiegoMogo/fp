@@ -1,0 +1,27 @@
+[
+  {
+    "name": "salah",
+    "description": "ED del Liverpool ",
+    "image_url": "https://raw.githubusercontent.com/DiegoMogo/fp/main/foto5.jpg"
+  },
+  {
+    "name": "Mané",
+    "description": "EI del liverpool",
+    "image_url": "https://raw.githubusercontent.com/DiegoMogo/fp/main/fotoo1.png"
+  },
+  {
+    "name": "Joao Felix",
+    "description": "MCO del Atletico de Madrid",
+    "image_url": "https://raw.githubusercontent.com/DiegoMogo/fp/main/foto2.jpg"
+  },
+   {
+    "name": "Luis Suarez",
+    "description": "DC del Atletico de Madrid",
+    "image_url": "https://raw.githubusercontent.com/DiegoMogo/fp/main/foto4.jpg"
+  },
+   {
+    "name": "Jadon Sancho",
+    "description": "ED del Manchester United",
+    "image_url": "https://raw.githubusercontent.com/DiegoMogo/fp/main/foto3.jpg"
+  }
+]
